@@ -1,0 +1,7 @@
+在当前文件夹右键选择“Git Bash Here”
+1 git pull
+2 git pull
+3 git status
+4 git add + 文件名
+5 git commit -m "修改4.0"提交改变，引号中的内容为对提交的描述
+6 git push将更新提交到git仓库

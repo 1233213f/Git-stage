@@ -1,0 +1,7 @@
+在本地文件位置打开 Git Bash Here
+0 git init
+1 git add .
+2 git commit -m "提交文件"
+3 到github 仓库复制仓库地址
+4 git remote add origin + 仓库地址
+5 git push -u origin master
